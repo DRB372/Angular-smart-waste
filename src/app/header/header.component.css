@@ -1,0 +1,10 @@
+.icon
+{
+
+  height: 40px;
+  padding-right: 5px;
+}
+a:hover {
+  background-color: #28A745;
+  color:white;
+}
